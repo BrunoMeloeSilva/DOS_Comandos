@@ -1,0 +1,2 @@
+Binario - Isso concatena arquivos na íntegra, ignorando caracteres EOF.
+copy / b image1.jpg + image2.jpg image3.jpg
